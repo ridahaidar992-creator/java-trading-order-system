@@ -1,0 +1,7 @@
+1001,sell,riri,3,4.0
+1002,buy,bra,2,3.0
+1001,sell,rida,3,4.0
+1002,buy,bro,1,4.0
+1004,buy,book,7,13.0
+1005,sell,phone,2,100.0
+1006,buy,tree,4,23.0
